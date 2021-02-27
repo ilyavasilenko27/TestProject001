@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba1a235078bff4a0b8a09d035054b737, type: 3}
+  m_Name: New Crystal Prefabs
+  m_EditorClassIdentifier: 
+  crystalPrefs:
+  - name: 1
+    pref: {fileID: 4045232432402411904, guid: c23adff42b8c24426a12e1775dee6b7a, type: 3}
+    color: {r: 1, g: 0.9069767, b: 0, a: 1}
+    mat: {fileID: 2100000, guid: 9543f5df44e9e4be6a84f22dbd4798d4, type: 2}
+  - name: 2
+    pref: {fileID: 6380259527629107960, guid: 88ceb143d584e4d36b49c46d45927fee, type: 3}
+    color: {r: 1, g: 0, b: 0.8549242, a: 1}
+    mat: {fileID: 2100000, guid: fb091051327ff4b3cba4b41d0f941900, type: 2}
+  - name: 3
+    pref: {fileID: 377715927900244902, guid: 3cac88ecb6b7546a3b4986df15b34c97, type: 3}
+    color: {r: 0, g: 1, b: 0, a: 1}
+    mat: {fileID: 2100000, guid: 9d6149ef2a6de4c159782e2c7c9f105e, type: 2}
+  - name: 0
+    pref: {fileID: 6117349194293264966, guid: 644b0f41adacc4863a39c9a17c501751, type: 3}
+    color: {r: 1, g: 0, b: 0, a: 1}
+    mat: {fileID: 2100000, guid: 9887ad772485e4cda9c0572f3d5e0165, type: 2}

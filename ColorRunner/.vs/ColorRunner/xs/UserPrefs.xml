@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{17076625-F697-C04A-7290-6381C43781EF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Data/DataSave.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Data/Global.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/GlobalScript.cs" />
+      <File FileName="Assets/Scripts/Data/DataSave.cs" Line="93" Column="30" />
+      <File FileName="Assets/Scripts/Data/CrystalPrefabs.cs" Line="26" Column="6" />
+      <File FileName="Assets/Scripts/UI/FpsCounter.cs" />
+      <File FileName="Assets/Scripts/Game/FireButton.cs" Line="25" Column="36" />
+      <File FileName="Assets/Scripts/Game/FireCrystal.cs" />
+      <File FileName="Assets/Scripts/Game/Hand.cs" />
+      <File FileName="Assets/Scripts/Game/EnemyScript.cs" Line="20" Column="33" />
+      <File FileName="Assets/Scripts/Game/Bullet.cs" />
+      <File FileName="Assets/Scripts/Game/Sword.cs" />
+      <File FileName="Assets/Scripts/Game/PlayerMove.cs" />
+      <File FileName="Assets/Scripts/UI/ScaleRender.cs" />
+      <File FileName="Library/PackageCache/com.unity.render-pipelines.universal@10.2.2/Runtime/Data/UniversalRenderPipelineAsset.cs" />
+      <File FileName="Assets/Scripts/Game/ChangeWall.cs" />
+      <File FileName="Assets/Scripts/Data/ButtonManager.cs" Line="63" Column="32" />
+      <File FileName="Assets/Scripts/Game/OutMap.cs" Line="11" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ColorRunner" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Data" expanded="True">
+                  <Node name="DataSave.cs" selected="True" />
+                </Node>
+                <Node name="Game" expanded="True" />
+                <Node name="UI" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="59c4a6a2-9782-409b-b080-64578897f3ce" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
